@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="SistemaHuEJB">
+    <output-path>$PROJECT_DIR$/out/artifacts/SistemaHuEJB</output-path>
+    <root id="root">
+      <element id="module-output" name="SistemaHuEJB" />
+      <element id="javaee-facet-resources" facet="SistemaHuEJB/ejb/EJB" />
+    </root>
+  </artifact>
+</component>

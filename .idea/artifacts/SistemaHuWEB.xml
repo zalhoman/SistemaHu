@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SistemaHuWEB">
+    <output-path>$PROJECT_DIR$/out/artifacts/SistemaHuWEB</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SistemaHuWEB" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="PrimeFaces-5.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SistemaHuWEB/web/Web" />
+    </root>
+  </artifact>
+</component>
